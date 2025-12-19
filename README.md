@@ -1,5 +1,5 @@
-
 <div align="center">
+  
   <table border="0">
     <tr>
       <td align="left" width="600">
@@ -7,23 +7,20 @@
         <h3>Estudante de Engenharia Civil & Entusiasta de Tecnologia</h3>
         <p>
           Explorando a intersecção entre a <b>Engenharia</b> e a <b>Programação</b>.<br>
-          Busco soluções que automatizem processos e gerem impacto social positivo.
+          Busco soluções que automatizem processos, modernizem a infraestrutura e gerem impacto social positivo.
         </p>
         <br>
         <audio src="nana.mp3" controls style="height: 30px; width: 220px;"></audio>
       </td>
       <td align="center" valign="middle">
         <a href="nana.mp3" target="_blank">
-          <img src="capa.PNG" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 2px solid #1DB954;" title="Clique para ouvir Os Tincoãs">
+          <img src="capa.PNG" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #1DB954;" title="Clique para ouvir Os Tincoãs - Nana">
         </a>
         <br>
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Audio_Visualizer.gif" width="100" style="margin-top: -10px;">
       </td>
     </tr>
   </table>
-</div>
-
-<hr>
 
   ---
 
