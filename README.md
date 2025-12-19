@@ -70,7 +70,7 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 <div align="center">
   <img src="image.svg" width="90" alt="Google Developer 2022">
-  <img src="badge(1).svg" width="90" alt="Inovador do Google Cloud">
+  <img src="badge (1).svg" width="90" alt="Inovador do Google Cloud">
   <img src="badge.svg" width="90" alt="NVIDIA Community">
   
   <br>
