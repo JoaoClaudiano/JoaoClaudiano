@@ -79,5 +79,8 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
   <!-- Contador de visitas atualizado -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
-  </p>
+  <img src="badge.svg" alt="Comunidade Badge" height="30">
+  <img src="https://img.shields.shields.io/badge/Google%20Cloud-Community-blue?logo=google-cloud&logoColor=white" height="30">
+  <img src="https://img.shields.shields.io/badge/NVIDIA-Community-76B900?logo=nvidia&logoColor=white" height="30">
+</p>
 </div>
