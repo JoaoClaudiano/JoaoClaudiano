@@ -11,6 +11,12 @@
 
   ---
 
+  <!-- Seção Eu mesmo -->
+  ### ✨ Eu
+  <p>Gosto de cannoli, Coca-Cola e Guimarães Rosa.</p>
+
+  ---
+
   ### 🔭 O que estou explorando
   
   Utilizo a tecnologia como ferramenta de análise e solução de problemas:
@@ -70,9 +76,8 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
   
   <br><br>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoaoClaudiano%2FJoaoClaudiano&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=true" alt="Hits"/>
-</p>
-
-
+  <!-- Contador de visitas atualizado -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
+  </p>
 </div>
