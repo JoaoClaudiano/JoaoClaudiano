@@ -83,8 +83,3 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
     <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
   </p>
 </div>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
-  </p>
-</div>
