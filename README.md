@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, eu sou o João Claudiano! 👋
+  # Olá, eu sou o João Claudiano! 👋🏼🌿
   
   ### Estudante de Engenharia Civil & Entusiasta de Tecnologia
   
@@ -42,7 +42,7 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 ---
 
-### 📫 Conexões
+### 📫 Conexões & Interações
 
 <div align="left">
   <a href="https://github.com/JoaoClaudiano" target="_blank">
@@ -51,10 +51,26 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 </div>
 
 <br>
-<br>
+
+<div align="center">
+  <p>Gostou do perfil? Deixe uma estrela!</p>
+  <a href="https://github.com/JoaoClaudiano/JoaoClaudiano/stargazers">
+    <img src="https://img.shields.io/badge/CURTIR%20PERFIL-❤-red?style=for-the-badge" alt="Like">
+  </a>
+  <br>
+  <img src="https://img.shields.io/github/stars/JoaoClaudiano/JoaoClaudiano?style=social" alt="GitHub Repo stars">
+</div>
+
+---
 
 <div align="center">
   <img src="image.svg" width="90" alt="Google Developer 2022">
   <br>
   <sub>Google Developer Recognition 2022</sub>
+  
+  <br><br>
+
+  <img src="https://profile-counter.glitch.me/JoaoClaudiano/count.svg" alt="Visit Counter">
+  <br>
+  <sub>visitas desde a criação</sub>
 </div>
