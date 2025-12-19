@@ -70,7 +70,10 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
   
   <br><br>
 
-  <img src="https://profile-counter.glitch.me/JoaoClaudiano/count.svg" alt="Visit Counter">
+<p align="center">
+  <img src="https://profile-counter.glitch.me/JoaoClaudiano/count.svg" alt="Visitas" height="20">
   <br>
-  <sub>visitas desde a criação</sub>
+  <sub style="color: grey;">visitas desde a criação</sub>
+</p>
+
 </div>
