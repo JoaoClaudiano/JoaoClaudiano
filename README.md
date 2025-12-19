@@ -1,24 +1,29 @@
+
 <div align="center">
-  
-  # João Claudiano 🌿
-  
-  ### Estudante de Engenharia Civil & Entusiasta de Tecnologia
+  <table border="0">
+    <tr>
+      <td align="left" width="600">
+        <h1>João Claudiano 🌿</h1>
+        <h3>Estudante de Engenharia Civil & Entusiasta de Tecnologia</h3>
+        <p>
+          Explorando a intersecção entre a <b>Engenharia</b> e a <b>Programação</b>.<br>
+          Busco soluções que automatizem processos e gerem impacto social positivo.
+        </p>
+        <br>
+        <audio src="nana.mp3" controls style="height: 30px; width: 220px;"></audio>
+      </td>
+      <td align="center" valign="middle">
+        <a href="nana.mp3" target="_blank">
+          <img src="capa.PNG" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 2px solid #1DB954;" title="Clique para ouvir Os Tincoãs">
+        </a>
+        <br>
+        <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Audio_Visualizer.gif" width="100" style="margin-top: -10px;">
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <div style="margin: 20px 0;">
-    <img src="capa.jpg" width="220" style="border-radius: 20px; border: 2px solid #3776AB; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
-    <br>
-    <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Audio_Visualizer.gif" width="100" style="opacity: 0.8;">
-    <br>
-    <p><b>🎵 Ouvindo: Os Tincoãs - Nana</b></p>
-    <audio src="nana.mp3" controls style="height: 30px; width: 220px; filter: sepia(20%) brightness(90%);"></audio>
-    <br>
-    <small><i>Clique para sentir o som</i></small>
-  </div>
-
-  <p align="center">
-    Explorando a intersecção entre a <b>Engenharia</b> e a <b>Programação</b>.<br>
-    Busco soluções que automatizem processos, modernizem a infraestrutura e gerem impacto social positivo.
-  </p>
+<hr>
 
   ---
 
