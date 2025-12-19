@@ -14,7 +14,7 @@
   <!-- Seção Eu mesmo -->
   ### 🇮🇹 Eu 🇧🇷
   <p>Gosto de cannoli, Coca-Cola e Guimarães Rosa </p>
-  <p>Algo que seja diferente de qualquer coisa</p>
+
   ---
 
   ### 🔭 O que estou explorando
