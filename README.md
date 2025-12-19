@@ -2,7 +2,7 @@
   
   <table border="0" width="100%">
     <tr>
-      <td align="left" valign="top" style="width: 75%; border: none;">
+      <td align="left" valign="top" style="width: 70%; border: none;">
         <h1>João Claudiano 🌿</h1>
         <h3>Estudante de Engenharia Civil & Entusiasta de Tecnologia</h3>
         <p>
@@ -10,11 +10,11 @@
           Busco soluções que automatizem processos, modernizem a infraestrutura e gerem impacto social positivo.
         </p>
         <br>
-        <audio src="nana.mp3" controls style="height: 32px; width: 240px;"></audio>
+        <audio src="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/nana .mp3" controls style="height: 32px; width: 240px;"></audio>
       </td>
-      <td align="center" valign="middle" style="width: 25%; border: none;">
-        <a href="nana .mp3" target="_blank">
-          <img src="./capa.PNG" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #1DB954;" title="Clique para ouvir Os Tincoãs - Nana">
+      <td align="center" valign="middle" style="width: 30%; border: none;">
+        <a href="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/nana .mp3" target="_blank">
+          <img src="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/capa.PNG" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #1DB954;" title="Clique para ouvir Os Tincoãs - Nana">
         </a>
         <br>
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Audio_Visualizer.gif" width="100" style="margin-top: 10px;">
@@ -22,14 +22,16 @@
     </tr>
   </table>
 
-  <hr>
+  ---
 
   ### 🇮🇹 Eu 🇧🇷
   <p>Gosto de cannoli, Coca-Cola e Guimarães Rosa </p>
 
-  <hr>
+  ---
 
   ### 🔭 O que estou explorando
+  
+  Utilizo a tecnologia como ferramenta de análise e solução de problemas:
   
   <div style="display: inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -51,6 +53,10 @@
 
 #### 🏗️ [CheckInfra](https://joaoclaudiano.github.io/checkinfra/)
 Uma ferramenta digital voltada para o **checklist e verificação de infraestrutura**.
+> *O objetivo é substituir processos manuais por uma análise digital rápida, permitindo maior controle e identificação de falhas em tempo real.*
+
+* **Stack:** HTML, CSS, JS (Foco em acessibilidade e uso mobile).
+* **Ver projeto:** [Acessar Demo](https://joaoclaudiano.github.io/checkinfra/)
 
 ---
 
@@ -85,5 +91,8 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
   <sub><b>Google Cloud Innovator</b> | Membro NVIDIA Community</sub>
   
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
+  </p>
 </div>
