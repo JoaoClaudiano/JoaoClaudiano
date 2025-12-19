@@ -1,6 +1,6 @@
 <div align="center">
   
-  # João Claudiano 👋🏼🌿
+  # João Claudiano 🌿
   
   ### Estudante de Engenharia Civil & Entusiasta de Tecnologia
   
