@@ -103,10 +103,15 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 ---
 
+---
+
 ## 📊 Atividade no GitHub
+
+<div align="center">
 
 ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoClaudiano&theme=tokyonight)
 
 ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoClaudiano&theme=tokyonight)
 ![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoClaudiano&theme=tokyonight)
 
+</div>
