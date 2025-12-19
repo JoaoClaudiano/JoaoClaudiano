@@ -62,8 +62,11 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <img src="https://img.shields.io/badge/Email-jooclaudiano%20%5Bat%5D%20gmail%20%5Bdot%5D%20com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:jooclaudiano@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
+
 
 
 ---
@@ -96,3 +99,14 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
     <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
   </p>
 </div>
+
+
+---
+
+## 📊 Atividade no GitHub
+
+![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoClaudiano&theme=tokyonight)
+
+![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoClaudiano&theme=tokyonight)
+![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoClaudiano&theme=tokyonight)
+
