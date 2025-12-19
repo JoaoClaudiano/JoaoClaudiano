@@ -71,9 +71,8 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
   <br><br>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/JoaoClaudiano/count.svg" alt="Visitas" height="20">
-  <br>
-  <sub style="color: grey;">visitas desde a criação</sub>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoaoClaudiano%2FJoaoClaudiano&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=true" alt="Hits"/>
 </p>
+
 
 </div>
