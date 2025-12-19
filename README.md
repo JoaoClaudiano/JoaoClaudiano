@@ -11,7 +11,6 @@
 
   ---
 
-  <!-- Seção Eu mesmo -->
   ### 🇮🇹 Eu 🇧🇷
   <p>Gosto de cannoli, Coca-Cola e Guimarães Rosa </p>
 
@@ -21,7 +20,7 @@
   
   Utilizo a tecnologia como ferramenta de análise e solução de problemas:
   
-  <div style="display: inline_block">
+  <div style="display: inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -45,6 +44,18 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 * **Stack:** HTML, CSS, JS (Foco em acessibilidade e uso mobile).
 * **Ver projeto:** [Acessar Demo](https://joaoclaudiano.github.io/checkinfra/)
+
+---
+
+### 🤝 Comunidades & Afiliações
+
+Aqui incluí o seu selo local e os selos das comunidades:
+
+<div align="left">
+  <img src="badge.svg" height="35" alt="Membro Badge">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Community-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/NVIDIA-Community-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA">
+</div>
 
 ---
 
@@ -76,11 +87,7 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
   
   <br><br>
 
-  <!-- Contador de visitas atualizado -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
-  <img src="badge.svg" alt="Comunidade Badge" height="30">
-  <img src="https://img.shields.shields.io/badge/Google%20Cloud-Community-blue?logo=google-cloud&logoColor=white" height="30">
-  <img src="https://img.shields.shields.io/badge/NVIDIA-Community-76B900?logo=nvidia&logoColor=white" height="30">
-</p>
+  </p>
 </div>
