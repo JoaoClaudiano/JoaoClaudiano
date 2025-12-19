@@ -10,10 +10,10 @@
           Busco soluções que automatizem processos, modernizem a infraestrutura e gerem impacto social positivo.
         </p>
         <br>
-        <audio src="nana.mp3" controls style="height: 30px; width: 250px;"></audio>
+        <audio src="nana .mp3" controls style="height: 30px; width: 250px;"></audio>
       </td>
       <td align="right" valign="top" style="width: 30%;">
-        <a href="https://github.com/JoaoClaudiano/JoaoClaudiano/blob/main/nana.mp3?raw=true" target="_blank">
+        <a href="https://github.com/JoaoClaudiano/JoaoClaudiano/blob/main/nana .mp3?raw=true" target="_blank">
           <img src="capa.PNG" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #1DB954;" title="Clique para ouvir Os Tincoãs - Nana">
         </a>
         <br>
