@@ -21,7 +21,7 @@
   - 🤖 Interesse em automação, dados e ferramentas digitais  
   - 🛠️ Curto transformar ideias simples em soluções úteis  
   - 🌱 Sempre aprendendo algo novo (e errando bastante no caminho 😄)
-  - 🌇 costumo passar uns tempos viajando
+  - 🌇 Costumo passar uns tempos viajando
 
 ---
 
