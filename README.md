@@ -21,12 +21,13 @@
   - 🤖 Interesse em automação, dados e ferramentas digitais  
   - 🛠️ Curto transformar ideias simples em soluções úteis  
   - 🌱 Sempre aprendendo algo novo (e errando bastante no caminho 😄)
+  - 🌇 costumo passar uns tempos viajando
 
 ---
 
   ### 🔭 O que estou explorando
   
-  Utilizo a tecnologia como ferramenta de análise e solução de problemas:
+  Utilizo a tecnologia como ferramenta de análise e solução criativa:
   
   <div style="display: inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -48,7 +49,7 @@
 
 #### 🏗️ [CheckInfra](https://joaoclaudiano.github.io/checkinfra/)
 Uma ferramenta digital voltada para o **checklist e verificação de infraestrutura**.
-> *O objetivo é substituir processos manuais por uma análise digital rápida, permitindo maior controle e identificação de falhas em tempo real.*
+> *O objetivo é padronizar os processos manuais de inspeçao da infraestrutura sanitaria escolar por uma análise digital rápida, integrando pré-triagem técnica, metodologia de priorizaçao, e dados georreferenciados, permitindo maior controle e identificação da situação da rede em tempo real.*
 
 * **Stack:** HTML, CSS, JS (Foco em acessibilidade e uso mobile).
 * **Ver projeto:** [Acessar Demo](https://joaoclaudiano.github.io/checkinfra/)
