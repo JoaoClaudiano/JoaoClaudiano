@@ -70,14 +70,19 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 <div align="center">
   <img src="image.svg" width="90" alt="Google Developer 2022">
-  <img src="badge.svg" width="90" alt="NVIDIA & Cloud Community">
+  <img src="badge(1).svg" width="90" alt="Inovador do Google Cloud">
+  <img src="badge.svg" width="90" alt="NVIDIA Community">
   
   <br>
-  <sub>Membro das comunidades Google Cloud & NVIDIA</sub>
-  <br>
-  <sub>Google Developer Recognition 2022</sub>
+  <sub>Google Developer Recognition 2022</sub><br>
+  <sub><b>Google Cloud Innovator</b> | Membro NVIDIA Community</sub>
   
   <br><br>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
+  </p>
+</div>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=JoaoClaudiano&style=flat-square&color=blue" alt="Perfil Views"/>
