@@ -47,18 +47,6 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 ---
 
-### 🤝 Comunidades & Afiliações
-
-Aqui incluí o seu selo local e os selos das comunidades:
-
-<div align="left">
-  <img src="badge.svg" height="35" alt="Membro Badge">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Community-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/NVIDIA-Community-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA">
-</div>
-
----
-
 ### 📫 Conexões & Interações
 
 <div align="left">
@@ -82,6 +70,10 @@ Aqui incluí o seu selo local e os selos das comunidades:
 
 <div align="center">
   <img src="image.svg" width="90" alt="Google Developer 2022">
+  <img src="badge.svg" width="90" alt="NVIDIA & Cloud Community">
+  
+  <br>
+  <sub>Membro das comunidades Google Cloud & NVIDIA</sub>
   <br>
   <sub>Google Developer Recognition 2022</sub>
   
