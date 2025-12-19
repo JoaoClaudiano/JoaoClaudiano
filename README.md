@@ -9,13 +9,13 @@
   </p>
 
   <br>
-  <a href="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/nana.mp3" target="_blank">
+  <a href="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/nana .mp3" target="_blank">
     <img src="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/capa.PNG" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #1DB954;" title="Clique para ouvir Os Tincoãs">
   </a>
   <br>
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Audio_Visualizer.gif" width="120">
   <br>
-  <audio src="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/nana.mp3" controls style="height: 35px; width: 280px;"></audio>
+  <audio src="https://raw.githubusercontent.com/JoaoClaudiano/JoaoClaudiano/main/nana .mp3" controls style="height: 35px; width: 280px;"></audio>
   <p><small><i>Os Tincoãs - Nana</i></small></p>
   <br>
 
