@@ -12,7 +12,7 @@
   ---
 
   <!-- Seção Eu mesmo -->
-  ###🇮🇹🇧🇷Eu
+  ### 🇮🇹🇧🇷Eu
   <p>Gosto de cannoli, Coca-Cola e Guimarães Rosa.</p>
 
   ---
