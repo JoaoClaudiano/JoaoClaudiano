@@ -56,8 +56,8 @@ Uma ferramenta digital voltada para o **checklist e verificação de infraestrut
 
 ---
 
-#### 📐 [Isostática Interativa](https://github.com/JoaoClaudiano/isoestatica)
-Uma ferramenta web para ajudar a visualizar e resolver vigas isostáticas sem sofrimento.
+#### 📐 [Isostática Interativa](https://github.com/joaoclaudiano/isoestatica/)
+Uma ferramenta web para ajudar a visualizar e resolver vigas isostáticas de forma simples.
 > *Quem cursa Engenharia Civil sabe o quanto disciplinas como Isostática e Resmat podem ser exaustivas. Criei esse projeto para ser aquele apoio na hora de conferir um cálculo ou entender o comportamento de uma estrutura de forma visual, direto no navegador e sem complicação.*
 
 * **Stack:** JavaScript (Vanilla), HTML5 Canvas, CSS3.
