@@ -2,7 +2,7 @@
   
   # João Claudiano 🌿
   
-  ### Estudante de Engenharia Civil & Entusiasta de Tecnologia
+  ### Engenharia Civil & Entusiasta de Tecnologia
   
   <p align="center">
     Explorando a intersecção entre a <b>Engenharia</b> e a <b>Programação</b>.<br>
