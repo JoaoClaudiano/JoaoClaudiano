@@ -49,7 +49,7 @@
 
 #### 🏗️ [CheckInfra](https://joaoclaudiano.github.io/checkinfra/)
 Uma ferramenta digital voltada para o **checklist e verificação de infraestrutura**.
-> *O objetivo é padronizar os processos manuais de inspeçao da infraestrutura sanitaria escolar por uma análise digital rápida, integrando pré-triagem técnica, metodologia de priorizaçao, e dados georreferenciados, permitindo maior controle e identificação da situação da rede em tempo real.*
+> *O objetivo é padronizar os processos manuais de inspeção da infraestrutura sanitária escolar por uma análise digital rápida, integrando pré-triagem técnica, metodologia de priorização, e dados georreferenciados, permitindo maior controle e identificação da situação da rede em tempo real.*
 
 * **Stack:** HTML, CSS, JS (Foco em acessibilidade e uso mobile).
 * **Ver projeto:** [Acessar Demo](https://joaoclaudiano.github.io/checkinfra/)
