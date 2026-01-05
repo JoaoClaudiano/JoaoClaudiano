@@ -48,25 +48,6 @@
 
 </div>
 
-## 🔥 Repositórios em Destaque
-
-<div align="center">
-  
-[![Repositório 1](https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoClaudiano&repo=REPOSITORIO_1&theme=default)](https://github.com/JoaoClaudiano/REPOSITORIO_1)
-[![Repositório 2](https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoClaudiano&repo=REPOSITORIO_2&theme=default)](https://github.com/JoaoClaudiano/REPOSITORIO_2)
-
-</div>
-
-## ⏳ Meu Tempo de Codificação (WakaTime)
-
-<div align="center">
-
-[![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=24411d3f-4788-4d77-b413-800dff61f4fc&theme=radical&v=2)](https://wakatime.com/@24411d3f-4788-4d77-b413-800dff61f4fc)
-
-</div>
-
----
-⭐ *Dados atualizados automaticamente com* **GitHub Readme Stats Fast** *- cache de ~60 segundos para estatísticas.*
 ---
 
 ### 🚧 Projetos em Andamento
