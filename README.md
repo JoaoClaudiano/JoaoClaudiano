@@ -39,7 +39,7 @@
 
   <br>
 
-<img height="160em" src="readme-stats-fast.vercel.app" alt="Top Langs"/>
+![Top Langs](readme-stats-fast.vercel.app)
 
 </div>
 
