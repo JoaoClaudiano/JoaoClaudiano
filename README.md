@@ -37,17 +37,6 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </div>
 
-  <br>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-[![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=JoaoClaudiano&show_icons=true&count_private=true&theme=radical&hide_title=true)](https://github.com/JoaoClaudiano)
-[![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoClaudiano&layout=compact&theme=radical&hide_title=true)](https://github.com/JoaoClaudiano)
-
-</div>
-
 ---
 
 ### 🚧 Projetos em Andamento
