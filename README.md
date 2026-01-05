@@ -39,16 +39,34 @@
 
   <br>
 
-## ⚡ Estatísticas em Tempo Quase Real
-Para garantir que meus dados estejam sempre atualizados sem atrasos, uso uma versão otimizada do gerador de estatísticas:
-[![Feito com GitHub Readme Stats Fast](https://img.shields.io/badge/GitHub_Stats-Fast_60s_Update-blue?style=flat-square)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+## 📊 Estatísticas do GitHub
 
-Essa ferramenta oferece um cache de atualização muito mais rápido do que a versão original, refletindo novas contribuições em cerca de 1 minuto[citation:1][citation:4].
+<div align="center">
+  
+[![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=JoaoClaudiano&show_icons=true&count_private=true&theme=radical&hide_title=true)](https://github.com/JoaoClaudiano)
+[![Linguagens mais usadas](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoClaudiano&layout=compact&theme=radical&hide_title=true)](https://github.com/JoaoClaudiano)
 
-**Exemplo das minhas estatísticas:**
-[![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=seu-nome-de-usuário)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 </div>
 
+## 🔥 Repositórios em Destaque
+
+<div align="center">
+  
+[![Repositório 1](https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoClaudiano&repo=REPOSITORIO_1&theme=default)](https://github.com/JoaoClaudiano/REPOSITORIO_1)
+[![Repositório 2](https://github-readme-stats-fast.vercel.app/api/pin/?username=JoaoClaudiano&repo=REPOSITORIO_2&theme=default)](https://github.com/JoaoClaudiano/REPOSITORIO_2)
+
+</div>
+
+## ⏳ Meu Tempo de Codificação (WakaTime)
+
+<div align="center">
+
+[![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=24411d3f-4788-4d77-b413-800dff61f4fc&theme=radical&v=2)](https://wakatime.com/@24411d3f-4788-4d77-b413-800dff61f4fc)
+
+</div>
+
+---
+⭐ *Dados atualizados automaticamente com* **GitHub Readme Stats Fast** *- cache de ~60 segundos para estatísticas.*
 ---
 
 ### 🚧 Projetos em Andamento
