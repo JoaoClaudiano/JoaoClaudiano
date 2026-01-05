@@ -39,8 +39,14 @@
 
   <br>
 
-![Top Langs](readme-stats-fast.vercel.app)
+## ⚡ Estatísticas em Tempo Quase Real
+Para garantir que meus dados estejam sempre atualizados sem atrasos, uso uma versão otimizada do gerador de estatísticas:
+[![Feito com GitHub Readme Stats Fast](https://img.shields.io/badge/GitHub_Stats-Fast_60s_Update-blue?style=flat-square)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
+Essa ferramenta oferece um cache de atualização muito mais rápido do que a versão original, refletindo novas contribuições em cerca de 1 minuto[citation:1][citation:4].
+
+**Exemplo das minhas estatísticas:**
+[![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=seu-nome-de-usuário)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 </div>
 
 ---
