@@ -12,7 +12,7 @@
   ---
 
   ### 🇮🇹 Eu 🇧🇷
-  <p>Gosto de cannoli, Coca-Cola e Guimarães Rosa </p>
+  <p>Gosto de cannoli, tapioca e Guimarães Rosa </p>
 
   ---
   ## 🧠 Um pouco sobre mim
@@ -39,7 +39,7 @@
 
   <br>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoClaudiano&layout=compact&langs_count=6&theme=graywhite&hide_border=true" alt="Top Langs"/>
+<img height="160em" src="readme-stats-fast.vercel.app" alt="Top Langs"/>
 
 </div>
 
